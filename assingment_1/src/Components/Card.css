@@ -1,0 +1,14 @@
+.card-status{
+    background-color:#6bbde4;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.card-time {
+    color: #37d03b;
+}
+
+.card {
+    width: 25rem
+}

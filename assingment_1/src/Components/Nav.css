@@ -1,0 +1,17 @@
+.logo {
+	padding: 18px;
+}
+.nav-search {
+    border-left: 2px solid #b1adad69;
+}
+.nav-search input{
+ width: 100%;
+ border: 1px solid #ced4da0d;
+}
+.signin {
+    text-align: center;
+}
+.signin img{
+    max-width: 62px;
+    border-radius: 62px;
+}
